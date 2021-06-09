@@ -2,7 +2,6 @@
 
 The classic Tic Tac Toe game with **Flutter Services** and **Spotify API** integration to listen to music while playing.
 
-#### NOTE: Currently Only **Spotify Andriod Sdk** has been integrated, so it will only play music in only Andriod for now.
 
   
 ## Project Structure: 
@@ -28,3 +27,5 @@ The plan is to improve the Computer's algorithm to give a tough fight to the use
   
 ## App Preview
 <img src="https://media.giphy.com/media/FsvZ1eUa9hOoi74yDi/giphy.gif"/>
+
+#### NOTE: Currently Only **Spotify Andriod Sdk** has been integrated, so it will only play music in only Andriod for now.
